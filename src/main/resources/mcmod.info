@@ -1,0 +1,12 @@
+[
+{
+  "modid": "mssql_jdbc",
+  "name": "Microsoft SQL JDBC",
+  "description": "Microsoft SQL JDBC Driver for Fabric and Forge",
+  "version": "${version}",
+  "mcversion": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/mssql-jdbc",
+  "authorList": ["Microsoft", "Kosmolot"],
+  "logoFile": "icon.png"
+}
+]

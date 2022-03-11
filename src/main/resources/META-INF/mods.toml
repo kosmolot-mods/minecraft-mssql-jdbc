@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+issueTrackerURL="https://github.com/kosma/mssql-jdbc-mod/issues"
+license="Proprietary"
+
+[[mods]]
+modId="mssql_jdbc"
+version="${version}"
+displayName="Microsoft SQL JDBC"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/mssql-jdbc"
+logoFile="icon.png"
+authors="Microsoft, Kosmolot"
+description='''Microsoft SQL JDBC Driver for Fabric and Forge'''

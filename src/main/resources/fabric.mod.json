@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "mssql-jdbc",
+  "version": "${version}",
+  "name": "Microsoft SQL JDBC",
+  "description": "Microsoft SQL JDBC Driver for Fabric and Forge",
+  "authors": [
+    "Microsoft",
+    "Kosmolot"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/mssql-jdbc",
+    "sources": "https://github.com/kosma/mssql-jdbc-mod",
+    "issues": "https://github.com/kosma/mssql-jdbc-mod/issues"
+  },
+  "license": "Proprietary",
+  "icon": "icon.png"
+}
